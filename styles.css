@@ -37,7 +37,7 @@ text-align: center;
 }
 
 .header {
-    padding-top: 30px;
+    padding-top: 10px;
     position: absolute;
     top: 0;
     left: 0;
@@ -118,7 +118,7 @@ opacity: 100%;
     width: 30px;
     display: none;
     position: absolute;
-    top: 20px;
+    top: 25px;
     right: 20px;
     padding: 10px 0;
     cursor: pointer;
